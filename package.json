@@ -3,8 +3,25 @@
   "description": "Basic koa tutorial with routing and authenticate with github",
   "version": "1.0.0",
   "author": "Zev23",
-  "homepage": "www.zev23.com",
+  "homepage": "http://www.zev23.com",
   "dependencies": {
     "koa": "~0.5.0"
-  }
+  },
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Zev23/koa-tutorial-getting-started.git"
+  },
+  "keywords": [
+    "koa",
+    "tutorial"
+  ],
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/Zev23/koa-tutorial-getting-started/issues"
+  },
+  "devDependencies": {}
 }
